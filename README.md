@@ -1,1 +1,1 @@
-# JavaScrrpt_Study
+# JavaScript_Study
